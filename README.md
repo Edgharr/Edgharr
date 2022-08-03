@@ -1,4 +1,4 @@
-## Oi, me chamo edghar, desemvolvedor fullstakc
+## Oi, me chamo Edghar e sou desenvolvedor fullstakc
 <div align="center">
   <a href="https://github.com/Edgharr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edgharr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
